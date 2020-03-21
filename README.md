@@ -1,3 +1,4 @@
+Created a full stack applacation with a login to save your information in a server
 ## Installation
 
 1. Clone repo
@@ -6,8 +7,6 @@
 ## Usage
 
 1. run `node server.js`
-2. Navigate to `localhost:8080`
+2. Navigate to `localhost:9000`
 
 ## Credit
-
-Modified from Scotch.io's auth tutorial
