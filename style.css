@@ -1,0 +1,21 @@
+body{
+  padding-top:80px;
+  background-image: url("img/wallpaper.jpg");
+  background-position: center;
+  background-position-y: 20%;
+  color: white;
+  font-size: 2rem;
+}
+img{
+  height: 200px;
+}
+.add{
+  text-align: center;
+  /* display: flex;
+  justify-content: center;
+  flex-direction: column; */
+  margin: auto;
+}
+ul{
+  list-style: none;
+}
