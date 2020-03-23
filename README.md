@@ -7,6 +7,6 @@ Created a full stack applacation with a login to save your information in a serv
 ## Usage
 
 1. run `node server.js`
-2. Navigate to `localhost:9000`
+2. Navigate to `localhost:9500`
 
 ## Credit
